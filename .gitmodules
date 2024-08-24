@@ -1,3 +1,6 @@
 [submodule "hackfax2024Frontend"]
 	path = hackfax2024Frontend
 	url = https://github.com/mlauer30/hackfax2024Frontend.git
+[submodule "hackfax2024Backend"]
+	path = hackfax2024Backend
+	url = https://github.com/mlauer30/hackfax2024Backend.git
