@@ -1,0 +1,3 @@
+[submodule "hackfax2024Frontend"]
+	path = hackfax2024Frontend
+	url = https://github.com/mlauer30/hackfax2024Frontend.git
